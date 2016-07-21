@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 		<head>
-			<meta charset="UTF-8"
+			<meta charset="UTF-8" />
 
 			<!-- Title goes here -->
 			<title>Giles Sandoval Personal Website</title>
@@ -20,6 +20,9 @@
 
 				<!-- Start main content goes here -->
 				<main>
+
+					<!-- Purpose, audience, and goal section here -->
+					<h1>Purpose, Audience & Goal</h1>
 					<p>Let's try this again</p>
 				</main>
 		</body>
