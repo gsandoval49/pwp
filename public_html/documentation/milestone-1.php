@@ -18,7 +18,7 @@
 				</header>
 
 				<main>
-					<p>sample lettering.</p>
+					<p>sample lettering..</p>
 
 				</main>
 		</body>
