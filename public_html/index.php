@@ -39,7 +39,7 @@
     <!-- ADD YOUR CUSTOM JS FILES HERE -->
     <script src="js/custom.js" type="text/javascript"></script>
 
-    <title>Giles Sandoval</title>
+    <title>Giles Sandoval - Personal Website</title>
 </head>
     <body class="sfooter">
         <!-- HEADER SECTION -->
@@ -60,10 +60,12 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class=col-xs-12">
-                            <div class="jumbotron col-md-12></div>
+                            <div class="jumbotron col-md-12">TEXT HERE</div>
+                            <a class="btn btn-default" href="#" role="button">Link</a>
                         </div>
                     </div>
                 </div>
+            </section>
 
 
         </main>
