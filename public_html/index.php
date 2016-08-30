@@ -39,7 +39,7 @@
     <!-- ADD YOUR CUSTOM JS FILES HERE -->
     <script src="js/custom.js" type="text/javascript"></script>
 
-    <title>Giles Sandoval - Personal Website</title>
+    <title>Giles Sandoval - Developer</title>
 </head>
     <body class="sfooter">
         <!-- HEADER SECTION -->
@@ -60,9 +60,24 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class=col-xs-12">
-                            <div class="jumbotron col-md-12">TEXT HERE</div>
-                            <a class="btn btn-default" href="#" role="button">Link</a>
+                            <div class="jumbotron col-md-12">
+                                TEXT HERE
+                                <a class="btn btn-default" href="#" role="button">Connect</a>
+                            </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- ========================== -->
+            <!--  Section two - about       -->
+            <!-- ========================== -->
+            <section class="parallax" data-stellar-background-ratio="0.5" id="about">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6 col-md-push-6">picture here</div>
+                        <div class="col-xs-12 col-md-6 col-md-pull-6">about me content</div>
                     </div>
                 </div>
             </section>
