@@ -11,6 +11,10 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
+    <!-- animate.css -->
+    <!-- TODO add style for library possibly - inquire if it needs -->
+    <link type="text/css" href="css/animate.css" rel="stylesheet"/>
+
     <!-- ADD OTHER CSS FILES HERE -->
 
     <!-- ADD YOUR CUSTOM CSS HERE -->
@@ -28,13 +32,20 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+    <!-- loop over $ADD_SCRIPT array to output additional <script> tags, if applicable. -->
+    <script src="js/jquery.stellar.min.js" type="text/javascript" /></script>
+    <script src="js/stellar-parallax.js" type="text/javascript" /></script>
+
     <!-- ADD YOUR CUSTOM JS FILES HERE -->
     <script src="js/custom.js" type="text/javascript"></script>
 
     <title>Giles Sandoval</title>
 </head>
-    <body>
+    <body class="sfooter">
         <!-- HEADER SECTION -->
+
+        <!-- begin sticky footer -->
+        <div class="sfooter-content">
         <header>
 
         </header>
@@ -42,9 +53,21 @@
         <!-- MAIN SECTION -->
         <main>
 
+            <!-- ========================== -->
+            <!--  Section One - welcome     -->
+            <!-- ========================== -->
+            <section class="parallax" data-stellar-background-ratio="0.5" id="welcome">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class=col-xs-12">
+                            <div class="jumbotron col-md-12></div>
+                        </div>
+                    </div>
+                </div>
+
 
         </main>
-
+        </div> <!-- sticky footer end div -->
         <!-- FOOTER SECTION -->
         <footer>
 
