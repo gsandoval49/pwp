@@ -73,7 +73,7 @@
             <!-- ========================== -->
             <!--  Section two - about       -->
             <!-- ========================== -->
-            <section class="parallax" data-stellar-background-ratio="0.5" id="about">
+            <section class="parallax about" id="about">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xs-12 col-md-6 col-md-push-6">picture here</div>
@@ -81,6 +81,53 @@
                     </div>
                 </div>
             </section>
+
+            <!-- ========================== -->
+            <!--  Section three - experience       -->
+            <!-- ========================== -->
+            <section class="parallax experience" id="experience">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6 col-md-pull-6">EXPERIENCE CONTENT HERE</div>
+                        <div class="col-xs-12 col-md-6 col-md-push-6">PICTURE HERE</div>
+                    </div>
+                </div>
+            </section>
+
+			  <!-- ========================== -->
+			  <!--  Section four - latest projects here       -->
+			  <!-- ========================== -->
+			  <section class="parallax projects" id="projects">
+				  <div class="container-fluid">
+					  <div class="row">
+						  <div class="col-xs-12 col-md-12">latest projects here</div>
+					  </div>
+				  </div>
+			  </section>
+
+			  <!-- ========================== -->
+			  <!--  Section five - message me       -->
+			  <!-- ========================== -->
+			  <section class="parallax message" id="message">
+				  <div class="container-fluid">
+					  <div class="row">
+						  <div class="col-xs-12 col-md-6 col-md-push-6">picture here</div>
+						  <div class="col-xs-12 col-md-6 col-md-pull-6">message me</div>
+					  </div>
+				  </div>
+			  </section>
+
+			  <!-- ========================== -->
+			  <!--  Section six - social icons-->
+			  <!-- ========================== -->
+			  <section class="parallax social" id="social">
+				  <div class="container-fluid">
+					  <div class="row">
+						  <div class="col-xs-12 col-md-6 col-md-pull-6">ICONS HERE</div>
+						  <div class="col-xs-12 col-md-6 col-md-push-6">PICTURE HERE</div>
+					  </div>
+				  </div>
+			  </section>
 
 
         </main>
