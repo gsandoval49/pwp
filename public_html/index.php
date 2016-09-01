@@ -56,7 +56,7 @@
             <!-- ========================== -->
             <!--  Section One - welcome     -->
             <!-- ========================== -->
-            <section class="parallax" data-stellar-background-ratio="0.5" id="welcome">
+            <!--<section class="parallax" data-stellar-background-ratio="0.5" id="welcome">-->
                 <div class="container-fluid">
                     <div class="row">
                         <div class=col-xs-12">
@@ -67,67 +67,67 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            <!--</section>-->
 
 
             <!-- ========================== -->
             <!--  Section two - about       -->
             <!-- ========================== -->
-            <section class="parallax about" data-stellar-background-ratio="0.5" id="about">
+            <!--<section class="parallax about" data-stellar-background-ratio="0.5" id="about">-->
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xs-12 col-md-6 col-md-push-6">picture here</div>
                         <div class="col-xs-12 col-md-6 col-md-pull-6">about me content</div>
                     </div>
                 </div>
-            </section>
+            <!--</section>-->
 
             <!-- ========================== -->
             <!--  Section three - experience       -->
             <!-- ========================== -->
-            <section class="parallax experience" data-stellar-background-ratio="0.5" id="experience">
+            <!--<section class="parallax experience" data-stellar-background-ratio="0.5" id="experience">-->
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xs-12 col-md-6 col-md-pull-6">experience content here</div>
                         <div class="col-xs-12 col-md-6 col-md-push-6">picture here</div>
                     </div>
                 </div>
-            </section>
+            <!--</section>-->
 
 			  <!-- ========================== -->
 			  <!--  Section four - latest projects here       -->
 			  <!-- ========================== -->
-			  <section class="parallax projects" data-stellar-background-ratio="0.5" id="projects">
+			  <!--<section class="parallax projects" data-stellar-background-ratio="0.5" id="projects">-->
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-12">latest projects here</div>
 					  </div>
 				  </div>
-			  </section>
+			  <!--</section>-->
 
 			  <!-- ========================== -->
 			  <!--  Section five - message me       -->
 			  <!-- ========================== -->
-			  <section class="parallax message" data-stellar-background-ratio="0.5" id="message">
+			  <!--<section class="parallax message" data-stellar-background-ratio="0.5" id="message">-->
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-6 col-md-push-6">picture here</div>
 						  <div class="col-xs-12 col-md-6 col-md-pull-6">message me</div>
 					  </div>
 				  </div>
-			  </section>
+			  <!--</section>-->
 
 			  <!-- ========================== -->
 			  <!--  Section six - social icons-->
 			  <!-- ========================== -->
-			  <section class="parallax social" data-stellar-background-ratio="0.5" id="social">
+			  <!--<section class="parallax social" data-stellar-background-ratio="0.5" id="social">-->
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-6 col-md-pull-6">ICONS HERE</div>
 						  <div class="col-xs-12 col-md-6 col-md-push-6">PICTURE HERE</div>
 					  </div>
 				  </div>
-			  </section>
+			  <!--</section>-->
 
 
         </main>
