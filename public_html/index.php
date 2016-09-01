@@ -88,8 +88,8 @@
             <section class="parallax experience" id="experience">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-xs-12 col-md-6 col-md-pull-6">EXPERIENCE CONTENT HERE</div>
-                        <div class="col-xs-12 col-md-6 col-md-push-6">PICTURE HERE</div>
+                        <div class="col-xs-12 col-md-6 col-md-pull-6">experience content here</div>
+                        <div class="col-xs-12 col-md-6 col-md-push-6">picture here</div>
                     </div>
                 </div>
             </section>
