@@ -77,7 +77,9 @@
             <section class="parallax about" data-stellar-background-ratio="0.5" id="about">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-xs-12 col-md-6">picture here</div>
+                        <div class=" text-center col-xs-12 col-md-6">picture here
+									<div class="about-photo"></div>
+								</div>
                         <div class="col-xs-12 col-md-6">about me content</div>
                     </div>
                 </div>
@@ -90,7 +92,9 @@
                 <div class="container-fluid">
                     <div class="row">
 								<div class="col-xs-12 col-md-6">experience content here</div>
-								<div class="col-xs-12 col-md-6">picture here</div>
+								<div class="col-xs-12 col-md-6">picture here
+									<div class="about-photo"></div>
+								</div>
                     </div>
                 </div>
             </section>
@@ -107,12 +111,14 @@
 			  </section>
 
 			  <!-- ========================== -->
-			  <!--  Section five - message me       -->
+			  <!--  Section five - CONNECT      -->
 			  <!-- ========================== -->
-			  <section class="parallax message" data-stellar-background-ratio="0.5" id="message">
+			  <section class="parallax message" data-stellar-background-ratio="0.5" id="connect">
 				  <div class="container-fluid">
 					  <div class="row">
-						  <div class="col-xs-12 col-md-6">picture here</div>
+						  <div class="col-xs-12 col-md-6">picture here
+							  <div class="about-photo"></div>
+						  </div>
 						  <div class="col-xs-12 col-md-6">message me</div>
 					  </div>
 				  </div>
@@ -124,8 +130,10 @@
 			  <section class="parallax social" data-stellar-background-ratio="0.5" id="social">
 				  <div class="container-fluid">
 					  <div class="row">
-						  <div class="col-xs-12 col-md-6">ICONS HERE</div>
-						  <div class="col-xs-12 col-md-6">PICTURE HERE</div>
+						  <div class="col-xs-12 col-md-6">SOCIAL ICONS HERE</div>
+						  <div class="col-xs-12 col-md-6">PICTURE HERE
+							  <div class="about-photo"></div>
+						  </div>
 					  </div>
 				  </div>
 			  </section>
