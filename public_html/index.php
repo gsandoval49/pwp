@@ -56,18 +56,19 @@
             <!-- ========================== -->
             <!--  Section One - welcome     -->
             <!-- ========================== -->
-            <section class="parallax" data-stellar-background-ratio="0.5" id="welcome">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class=col-xs-12">
-                            <div class="jumbotron col-md-12">
-                                TEXT HERE
-                                <a class="btn btn-default" href="#" role="button">Connect</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+				<section class="parallax" data-stellar-background-ratio="0.5" id="welcome">
+					 <div class="container-fluid">
+						  <div class="row">
+								<div class=col-xs-12">
+									 <div class="jumbotron text-center col-md-12">
+										  <h1>Giles Sandoval</h1>
+										  <p>Developer. Freelancer.</p>
+										  <a class="btn btn-default" href="#" role="button">Connect</a>
+									 </div>
+								</div>
+						  </div>
+					 </div>
+				</section>
 
 
             <!-- ========================== -->
