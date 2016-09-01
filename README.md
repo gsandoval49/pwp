@@ -21,3 +21,12 @@ Your Milestone 2&alpha; passes at [Tier IV](https://bootcamp-coders.cnm.edu/proj
 ### Edits &amp; Suggestions
 - The "Bootstrap Optional Theme" CSS should be loaded after the core Bootstrap CSS. (Move line 9 down after line 12)
 - The final closing &lt;main&gt; tag on line 147 should be a &lt;div&gt;. This would close your &lt;div class="sfooter-content"&gt; properly. But considering you have no &lt;footer&gt; proper, you don't really need this tag at all actually.  
+
+## Milestone 2&beta; Feedback
+Milestone 2b Feedback
+- CSS for background images: see snippet via Slack.
+- for flush background images - place the background image on the column, not inside.
+- remove stellar.js stuff
+- explore CSS driven parallax is you want 
+- Research Flexbox text centering. Look here for inspo: https://github.com/rlewis2892/bootstrap-sandbox-3/blob/mzibert/public_html/css/styles.css
+- build form
