@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+	<!--this is for font icons or favicons-->
+	<link data-require="font-awesome@4.5.0" data-semver="4.5.0" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css" />
+
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
     <!-- animate.css -->
     <!-- TODO add style for library possibly - inquire if it needs -->
@@ -56,7 +56,7 @@
             <!-- ========================== -->
             <!--  Section One - welcome     -->
             <!-- ========================== -->
-				<section class="parallax" data-stellar-background-ratio="0.5" id="welcome">
+				<section class="landing-page" id="welcome">
 					 <div class="container-fluid">
 						  <div class="row">
 								<div class=col-xs-12">
@@ -77,10 +77,17 @@
             <section class="parallax about" data-stellar-background-ratio="0.5" id="about">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class=" text-center col-xs-12 col-md-6">picture here
-									<div class="about-photo"></div>
+                        <div class=" text-center col-xs-12 col-md-6">
+									<div class="about-photo">
+										<h1>[ ]</h1>
+										<p>About Me</p>
+									</div>
 								</div>
-                        <div class="col-xs-12 col-md-6">about me content</div>
+                        <div class="col-xs-12 col-md-6">
+									<h1>Precision. Quality. Collaborative.</h1>
+									<p>My passion of collaborating, finding solutions to real-world problems, and being a team player has led me to this fast-paced and exciting path.</p>
+									<p>For every single project that I work on my focus has been on creating the best user experience possible. I've worked on a couple projects, and a few lined up projects for friends and future clients. I love challenges.</p>
+								</div>
                     </div>
                 </div>
             </section>
@@ -91,7 +98,14 @@
             <section class="parallax experience" data-stellar-background-ratio="0.5" id="experience">
                 <div class="container-fluid">
                     <div class="row">
-								<div class="col-xs-12 col-md-6">experience content here</div>
+								<div class="col-xs-12 col-md-6">
+									<i class="fa fa-car" style="font-size:48px;"></i>
+									<h1>text stuff</h1>
+									<i class="fa fa-car" style="font-size:48px;"></i>
+									<h1>text stuff</h1>
+									<i class="fa fa-car" style="font-size:48px;"></i>
+									<h1>text stuff</h1>
+								</div>
 								<div class="col-xs-12 col-md-6">picture here
 									<div class="about-photo"></div>
 								</div>
