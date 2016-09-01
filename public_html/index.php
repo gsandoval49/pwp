@@ -74,7 +74,7 @@
             <!-- ========================== -->
             <!--  Section two - about       -->
             <!-- ========================== -->
-            <section class="parallax about" data-stellar-background-ratio="0.5" id="about">
+            <section class="about-me"  id="about">
                 <div class="container-fluid">
                     <div class="row">
                         <div class=" text-center col-xs-12 col-md-6">
@@ -95,7 +95,7 @@
             <!-- ========================== -->
             <!--  Section three - experience       -->
             <!-- ========================== -->
-            <section class="parallax experience" data-stellar-background-ratio="0.5" id="experience">
+            <section class="experience-section" id="experience">
                 <div class="container-fluid">
                     <div class="row">
 								<div class="col-xs-12 col-md-6">
@@ -116,7 +116,7 @@
 			  <!-- ========================== -->
 			  <!--  Section four - latest projects here       -->
 			  <!-- ========================== -->
-			  <section class="parallax projects" data-stellar-background-ratio="0.5" id="projects">
+			  <section class="project-section" id="projects">
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-12">latest projects here</div>
@@ -127,7 +127,7 @@
 			  <!-- ========================== -->
 			  <!--  Section five - CONNECT      -->
 			  <!-- ========================== -->
-			  <section class="parallax message" data-stellar-background-ratio="0.5" id="connect">
+			  <section class="connect-message" id="connect">
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-6">picture here
@@ -141,7 +141,7 @@
 			  <!-- ========================== -->
 			  <!--  Section six - social icons-->
 			  <!-- ========================== -->
-			  <section class="parallax social" data-stellar-background-ratio="0.5" id="social">
+			  <section class="social-section" id="social">
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-6">SOCIAL ICONS HERE</div>

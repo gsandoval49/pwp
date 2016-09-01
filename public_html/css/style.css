@@ -1,16 +1,25 @@
 /*MY CSS*/
 .jumbotron{
+	background: url("../img/mountain.png") no-repeat center;
+	min-height: 600px;
+	padding: 200px 0 100px;
+	text-align: center;
+	color: lightgrey;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+/*.jumbotron{
 	background-image: url("../img/mountain.png");
 	box-shadow: 0 0 50px rgba(0,0,0,0.8);
 	min-height: 600px;
 	padding: 200px 0 100px;
 	text-align: center;
 	color: lightgrey;
-}
+}*/
 
 .about-photo{
 	background-image: url("../img/keyboard.png");
-	box-shadow: 0 0 50px rgba(0,0,0,0.8);
 	min-height: 600px;
 	padding: no padding;
 	text-align: center;
