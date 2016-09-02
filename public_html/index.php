@@ -79,8 +79,10 @@
                     <div class="about-parent">
                         <div class="col-xs-12 col-md-6">
 									<div class="about-photo">
-										<h1>[ ]</h1>
-										<p>About Me</p>
+										<div class="about-photo-text">
+											<h1>[ ]</h1>
+											<p>About Me</p>
+										</div>
 									</div>
 								</div>
                         <div class="col-xs-12 col-md-6">

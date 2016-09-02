@@ -29,6 +29,13 @@
 	padding: no padding;
 	text-align: center;
 	color: lightgrey;
+	background-attachment: fixed;
+}
+
+.about-photo-text {
+	align-self: flex-start;
+	padding-top: 15em;
+	text-align: center;
 }
 
 .aligner{
