@@ -76,17 +76,21 @@
             <!-- ========================== -->
             <section class="about-me"  id="about">
                 <div class="container-fluid">
-                    <div class="row">
-                        <div class=" text-center col-xs-12 col-md-6">
+                    <div class="about-parent">
+                        <div class="col-xs-12 col-md-6">
 									<div class="about-photo">
 										<h1>[ ]</h1>
 										<p>About Me</p>
 									</div>
 								</div>
                         <div class="col-xs-12 col-md-6">
-									<h1>Precision. Quality. Collaborative.</h1>
-									<p>My passion of collaborating, finding solutions to real-world problems, and being a team player has led me to this fast-paced and exciting path.</p>
-									<p>For every single project that I work on my focus has been on creating the best user experience possible. I've worked on a couple projects, and a few lined up projects for friends and future clients. I love challenges.</p>
+									<div class="aligner">
+										<div class="aligner-item">
+											<h1>Precision. Quality. Collaborative.</h1>
+											<p>My passion of collaborating, finding solutions to real-world problems, and being a team player has led me to this fast-paced and exciting path.</p>
+											<p>For every single project that I work on my focus has been on creating the best user experience possible. I've worked on a couple projects, and a few lined up projects for friends and future clients. I love challenges.</p>
+										</div>
+									</div>
 								</div>
                     </div>
                 </div>
