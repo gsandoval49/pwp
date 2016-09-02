@@ -51,7 +51,14 @@
 	text-align: center;
 }
 
-
+.experience-photo {
+	url("../img/ipad.png");
+	min-height: 600px;
+	padding: no padding;
+	text-align: center;
+	color: lightgrey;
+	justify-content: flex-end;
+}
 
 #projects {
 	background-color: lightgrey;
