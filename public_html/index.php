@@ -81,7 +81,7 @@
 									<div class="about-photo">
 										<div class="about-photo-text">
 											<h1>[ ]</h1>
-											<p>About Me</p>
+											<h3>About Me</h3>
 										</div>
 									</div>
 								</div>
@@ -115,7 +115,10 @@
 									<h1>text stuff</h1>
 								</div>
 								<div class="col-xs-12 col-md-6">picture here
-									<div class="about-photo"></div>
+									<div class="experience-photo">
+										<h1>/ /</h1>
+										<p></p>
+									</div>
 								</div>
                     </div>
                 </div>
