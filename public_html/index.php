@@ -117,7 +117,7 @@
 								<div class="col-xs-12 col-md-6">picture here
 									<div class="experience-photo">
 										<h1>/ /</h1>
-										<p></p>
+										<h3>Experience</h3>
 									</div>
 								</div>
                     </div>
