@@ -33,9 +33,13 @@
 }
 
 .about-photo-text {
-	align-self: flex-start;
-	padding-top: 15em;
+	padding-top: 23em;
 	text-align: center;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
 }
 
 .aligner{
@@ -54,11 +58,15 @@
 .experience-photo {
 	url("../img/ipad.png");
 	min-height: 600px;
-	padding: no padding;
-	text-align: center;
-	color: lightgrey;
-	justify-content: flex-end;
+	background-color: lightgrey;
+
 }
+
+.fa {
+	font-size:96px;
+	color:grey;
+}
+
 
 #projects {
 	background-color: lightgrey;

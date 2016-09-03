@@ -105,19 +105,21 @@
                 <div class="container-fluid">
                     <div class="row">
 								<div class="col-xs-12 col-md-6">
-									<i class="fa fa-connectdevelop" style="font-size:96px;color:grey"></i>
+									<i class="fa fa-connectdevelop"></i>
 									<h1>LANGUAGE</h1>
 									<p>HTML5, JavaScript, PHP, CSS, Angular, Python</p>
-									<i class="fa fa-desktop" style="font-size:96px;color:grey"></i>
+									<i class="fa fa-desktop"></i>
 									<h1>DEVELOPER</h1>
 									<p></p>
-									<i class="fa fa-car" style="font-size:48px;"></i>
+									<i class="fa fa-car"></i>
 									<h1>text stuff</h1>
 								</div>
-								<div class="col-xs-12 col-md-6">picture here
+								<div class="col-xs-12 col-md-6">
 									<div class="experience-photo">
-										<h1>/ /</h1>
-										<h3>Experience</h3>
+										<div class="experience-photo-text">
+											<h1>/ /</h1>
+											<h3>Experience</h3>
+										</div>
 									</div>
 								</div>
                     </div>
