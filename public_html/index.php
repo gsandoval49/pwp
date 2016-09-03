@@ -106,13 +106,13 @@
                     <div class="row">
 								<div class="col-xs-12 col-md-6">
 									<i class="fa fa-connectdevelop"></i>
-									<h1>LANGUAGE</h1>
-									<p>HTML5, JavaScript, PHP, CSS, Angular, Python</p>
+										<h1>LANGUAGE</h1>
+										<p>HTML5, JavaScript, PHP, CSS, Angular, Python</p>
 									<i class="fa fa-desktop"></i>
-									<h1>DEVELOPER</h1>
-									<p></p>
+										<h1>DEVELOPER</h1>
+										<p></p>
 									<i class="fa fa-car"></i>
-									<h1>text stuff</h1>
+										<h1>text stuff</h1>
 								</div>
 								<div class="col-xs-12 col-md-6">
 									<div class="experience-photo">
