@@ -10,9 +10,6 @@
 	background-attachment: fixed;
 }
 
-.about-parent {
-	display: ;
-}
 
 .about-photo{
 	background: url("../img/keyboard.png") no-repeat;
@@ -47,9 +44,9 @@
 }
 
 .experience-photo {
-	background: url: ("../img/ipad.png") no-repeat;
+	background: url: ("../img/ipad.png");
 	min-height: 600px;
-	padding: no padding;
+	padding: 0;
 	background-size: cover;
 }
 
