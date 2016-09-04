@@ -10,26 +10,17 @@
 	background-attachment: fixed;
 }
 
-/*.jumbotron{
-	background-image: url("../img/mountain.png");
-	box-shadow: 0 0 50px rgba(0,0,0,0.8);
-	min-height: 600px;
-	padding: 200px 0 100px;
-	text-align: center;
-	color: lightgrey;
-}*/
-
 .about-parent {
 	display: ;
 }
 
 .about-photo{
-	background-image: url("../img/keyboard.png");
+	background: url("../img/keyboard.png") no-repeat;
 	min-height: 600px;
 	padding: no padding;
 	text-align: center;
 	color: lightgrey;
-	background-attachment: fixed;
+	background-size: cover;
 }
 
 .about-photo-text {
@@ -56,8 +47,9 @@
 }
 
 .experience-photo {
-	background: url: ("../img/ipad.png");
+	background: url: ("../img/ipad.png") no-repeat;
 	min-height: 600px;
+	padding: no padding;
 	background-size: cover;
 }
 
