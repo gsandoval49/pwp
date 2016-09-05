@@ -72,6 +72,15 @@
 	min-height: 400px;
 }
 
+/*CONNECT PHOTO*/
+.connect-photo {
+	background: url("../img/isotopes-filter.png") no-repeat;
+	min-height: 600px;
+	text-align: center;
+	color: lightgrey;
+	background-size: cover;
+}
+
 
 /*SOCIAL*/
 .social-photo {

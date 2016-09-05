@@ -144,7 +144,7 @@
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-6">picture here
-							  <div class="about-photo"></div>
+							  <div class="connect-photo"></div>
 						  </div>
 						  <div class="col-xs-12 col-md-6">message me</div>
 					  </div>
