@@ -143,8 +143,13 @@
 			  <section class="connect-message" id="connect">
 				  <div class="container-fluid">
 					  <div class="row">
-						  <div class="col-xs-12 col-md-6">picture here
-							  <div class="connect-photo"></div>
+						  <div class="col-xs-12 col-md-6">
+							  <div class="connect-photo">
+								  <div class="connect-photo-text">
+									  <h1>\ \</h1>
+									  <h3>Connect</h3>
+								  </div>
+							  </div>
 						  </div>
 						  <div class="col-xs-12 col-md-6">message me</div>
 					  </div>
