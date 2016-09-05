@@ -159,7 +159,7 @@
 					  <div class="row">
 						  <div class="col-xs-12 col-md-6">SOCIAL ICONS HERE</div>
 						  <div class="col-xs-12 col-md-6">PICTURE HERE
-							  <div class="about-photo"></div>
+							  <div class="social-photo"></div>
 						  </div>
 					  </div>
 				  </div>

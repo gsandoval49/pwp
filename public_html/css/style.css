@@ -72,6 +72,15 @@
 	min-height: 400px;
 }
 
+
+/*SOCIAL*/
+.social-photo {
+	background: url("../img/soundboard.png") no-repeat;
+	min-height: 600px;
+	text-align: center;
+	color: lightgrey;
+	background-size: cover;
+}
 /*
 	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../img/keyboard.png) no-repeat center center;
 	background-attachment: fixed;
