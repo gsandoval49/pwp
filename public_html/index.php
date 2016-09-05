@@ -163,8 +163,13 @@
 				  <div class="container-fluid">
 					  <div class="row">
 						  <div class="col-xs-12 col-md-6">SOCIAL ICONS HERE</div>
-						  <div class="col-xs-12 col-md-6">PICTURE HERE
-							  <div class="social-photo"></div>
+						  <div class="col-xs-12 col-md-6">
+							  <div class="social-photo">
+								  <div class="social-photo-text">
+									  <h1>{ }</h1>
+									  <h3>Social Icons</h3>
+								  </div>
+							  </div>
 						  </div>
 					  </div>
 				  </div>
