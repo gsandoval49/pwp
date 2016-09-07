@@ -106,11 +106,12 @@
                     <div class="row">
 								<div class="col-xs-12 col-md-6">
 									<i class="fa fa-connectdevelop"></i>
-										<h1>LANGUAGE</h1>
-										<p>HTML5, JavaScript, PHP, CSS, Angular, Python</p>
+										<h1>LANGUAGES</h1>
+										<p>HTML5, JavaScript, PHP, CSS, MySQL, Angular, Python</p>
+										<p><strong>Future Languages: </strong>.NET, Java, Ruby, and C++</p>
 									<i class="fa fa-desktop"></i>
 										<h1>DEVELOPER</h1>
-										<p></p>
+										<p>I'm currently working on a mobile-friendly website with a team to produce a platform that connects artists with the general art loving public. The team project is called Flek. I will have future projects such as personal websites, a game website, and a hackathon project. You can see these updates in the future.</p>
 									<i class="fa fa-car"></i>
 										<h1>text stuff</h1>
 								</div>
