@@ -91,6 +91,11 @@
 	right: 0;
 	color: lightgrey;
 }
+/*for message or connect icon and i decided to name it email*/
+.test {
+	font-size: 18px;
+	color: grey;
+}
 
 /*SOCIAL*/
 .social-photo {

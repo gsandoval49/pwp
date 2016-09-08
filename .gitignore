@@ -1,4 +1,7 @@
 /.idea
 .DS_Store
 /vendor
+**/php/mail-config.php
+
+# this is for atom
 /.sync-config.cson

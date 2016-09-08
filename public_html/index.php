@@ -172,8 +172,8 @@
 								  <div class="form-group">
 									  <label for="name">Name</label>
 									  <div class="input-group">
-									  <div class="input-group-addon">
-										  <i class="fa-fa-user"></i>
+									  	<div class="input-group-addon">
+										  <i class="fa fa-user test" aria-hidden="true"></i>
 									  </div>
 									  <input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
 								  </div>
@@ -181,7 +181,7 @@
 									  <label for="email">Email</label>
 									  <div class="input-group">
 										  <div class="input-group-addon">
-											  <i class="fa-fa-envelope"></i>
+											  <i class="fa fa-envelope test"></i>
 										  </div>
 										  <input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
 								  </div>
@@ -189,7 +189,7 @@
 									  <label for="subject">Subject</label>
 									  <div class="input-group">
 										  <div class="input-group-addon">
-											  <i class="fa-fa-pencil"></i>
+											  <i class="fa fa-pencil test"></i>
 										  </div>
 										  <input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
 								  </div>
@@ -197,7 +197,7 @@
 									  <label for="message">Message</label>
 									  <div class="input-group">
 										  <div class="input-group-addon">
-											  <i class="fa-fa-comment"></i>
+											  <i class="fa fa-comment test"></i>
 										  </div>
 										  <textarea type="text" name="message" rows="5" id="message" class="form-control" placeholder="Your Message Here (2000 characters max)"></textarea>
 								  </div>
