@@ -168,7 +168,7 @@
 						  </div>
 						  <div class="col-xs-12 col-md-6">
 							  <!-- from goes here-->
-							  <form id="contact-form" action="" method="POST">
+							  <form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 								  <div class="form-group">
 									  <label for="name">Name</label>
 									  <div class="input-group">
@@ -207,6 +207,15 @@
 									  <button class="btn btn-default" type="reset">Reset</button>
 									  <button class="btn btn-info" type="submit">Submit</button>
 							  </form>
+
+							  <!--empty area for form error/success output-->
+							  <!--won't cause any harm if you do put this within form end tag. -->
+							  <div class="row">
+								  <div class="col-xs-12">
+									  <div id="output-area"></div>
+								  </div>
+							  </div>
+
 						  </div>
 					  </div>
 				  </div>
@@ -218,7 +227,9 @@
 			  <section class="social-section" id="social">
 				  <div class="container-fluid">
 					  <div class="row">
-						  <div class="col-xs-12 col-md-6">SOCIAL ICONS HERE</div>
+						  <div class="col-xs-12 col-md-6">
+
+						  </div>
 						  <div class="col-xs-12 col-md-6">
 							  <div class="social-photo">
 								  <div class="social-photo-text">
