@@ -152,7 +152,31 @@
 								  </div>
 							  </div>
 						  </div>
-						  <div class="col-xs-12 col-md-6">message me</div>
+						  <div class="col-xs-12 col-md-6">
+							  <!-- from goes here-->
+							  <form id="contact-form" action="">
+								  <div class="form-group">
+									  <label for="name">Name</label>
+									  <div class="input-group">
+									  <div class="input-group-addon">
+										  <i class="fa-fa-user"></i>
+										  icon here
+									  </div>
+									  <input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
+								  </div>
+								  <div class="form-group">
+									  <label for="name">Email</label>
+									  <div class="input-group">
+										  <div class="input-group-addon">
+											  <i class="fa-fa-envelope"></i>
+											  icon here
+										  </div>
+										  <input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
+								  </div>
+								  <div class="form-group"></div>
+								  <div class="form-group"></div>
+							  </form>
+						  </div>
 					  </div>
 				  </div>
 			  </section>
