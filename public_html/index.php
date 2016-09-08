@@ -11,6 +11,9 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
+	<!-- FontAwesome -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
     <!-- animate.css -->
     <!-- TODO add style for library possibly - inquire if it needs -->
     <link type="text/css" href="css/animate.css" rel="stylesheet"/>
@@ -35,6 +38,9 @@
     <!-- loop over $ADD_SCRIPT array to output additional <script> tags, if applicable. -->
     <script src="js/jquery.stellar.min.js" type="text/javascript" /></script>
     <script src="js/stellar-parallax.js" type="text/javascript" /></script>
+
+		<!--for recaptcha-->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
     <!-- ADD YOUR CUSTOM JS FILES HERE -->
     <script src="js/custom.js" type="text/javascript"></script>
@@ -154,7 +160,7 @@
 						  </div>
 						  <div class="col-xs-12 col-md-6">
 							  <!-- from goes here-->
-							  <form id="contact-form" action="">
+							  <form id="contact-form" action="" method="POST">
 								  <div class="form-group">
 									  <label for="name">Name</label>
 									  <div class="input-group">
@@ -187,6 +193,9 @@
 										  </div>
 										  <textarea type="text" name="message" rows="5" id="message" class="form-control" placeholder="Your Message Here (2000 characters max)"></textarea>
 								  </div>
+									  <!--google recaptcha-->
+									  <div class="g-recaptcha" data-sitekey="6LefrykTAAAAABZBUs36nHkmRHecDjGyr_C9d8Zl"></div>
+
 									  <button class="btn btn-default" type="reset">Reset</button>
 									  <button class="btn btn-info" type="submit">Submit</button>
 							  </form>
