@@ -160,21 +160,35 @@
 									  <div class="input-group">
 									  <div class="input-group-addon">
 										  <i class="fa-fa-user"></i>
-										  icon here
 									  </div>
 									  <input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
 								  </div>
 								  <div class="form-group">
-									  <label for="name">Email</label>
+									  <label for="email">Email</label>
 									  <div class="input-group">
 										  <div class="input-group-addon">
 											  <i class="fa-fa-envelope"></i>
-											  icon here
 										  </div>
 										  <input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
 								  </div>
-								  <div class="form-group"></div>
-								  <div class="form-group"></div>
+								  <div class="form-group">
+									  <label for="subject">Subject</label>
+									  <div class="input-group">
+										  <div class="input-group-addon">
+											  <i class="fa-fa-pencil"></i>
+										  </div>
+										  <input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
+								  </div>
+								  <div class="form-group">
+									  <label for="message">Message</label>
+									  <div class="input-group">
+										  <div class="input-group-addon">
+											  <i class="fa-fa-comment"></i>
+										  </div>
+										  <textarea type="text" name="message" rows="5" id="message" class="form-control" placeholder="Your Message Here (2000 characters max)"></textarea>
+								  </div>
+									  <button class="btn btn-default" type="reset">Reset</button>
+									  <button class="btn btn-info" type="submit">Submit</button>
 							  </form>
 						  </div>
 					  </div>
