@@ -2,27 +2,15 @@
 <html lang="en">
 	<head>
 
-		<!-- ======================================= -->
-		<!--  If you're looking at this code         -->
-		<!--  I'd enjoy discussing my projects       -->
-		<!--  & hopefully we can collaborate         -->
-		<!--  on something special.                  -->
-		<!--                                         -->
-		<!--  Giles Sandoval | Developer             -->
-		<!--  505.750.7722 | hello@gilessandoval.com -->
-		<!-- ======================================= -->
-
 		<meta charset="UTF-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		<!--this is for font icons or favicons-->
-		<link data-require="font-awesome@4.5.0" data-semver="4.5.0" rel="stylesheet"
-				href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css"/>
+		<link data-require="font-awesome@4.5.0" data-semver="4.5.0" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css"/>
 
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- FontAwesome -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -46,33 +34,35 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
-		<script type="text/javascript"
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
-		<script type="text/javascript"
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
-		<script type="text/javascript"
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-				  crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 		<!-- loop over $ADD_SCRIPT array to output additional <script> tags, if applicable. -->
 		<script src="js/jquery.stellar.min.js" type="text/javascript"/></script>
-		<
-		script
-		src = "js/stellar-parallax.js"
-		type = "text/javascript" / ></script>
+		<script src = "js/stellar-parallax.js" type = "text/javascript" / ></script>
 
 		<!--for recaptcha-->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 		<!-- ADD YOUR CUSTOM JS FILES HERE -->
 		<script src="js/custom.js" type="text/javascript"></script>
+
+		<!-- ======================================= -->
+		<!--  If you're looking at this code         -->
+		<!--  I'd enjoy discussing my projects with  -->
+		<!--  you & hopefully we can collaborate     -->
+		<!--  on something special.                  -->
+		<!--                                         -->
+		<!--  Giles Sandoval | Developer             -->
+		<!--  505.750.7722 | hello@gilessandoval.com -->
+		<!-- ======================================= -->
 
 		<title>Giles Sandoval - Developer</title>
 	</head>
