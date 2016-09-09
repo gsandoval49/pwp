@@ -101,7 +101,7 @@
 					<div class="container-fluid">
 						<div class="about-parent">
 							<div class="col-xs-12 col-md-6">
-								<div class="about-photo">
+								<div class="container-fluid about-photo">
 									<div class="about-photo-text">
 										<h1>[ ]</h1>
 										<h3>About Me</h3>
@@ -112,11 +112,11 @@
 								<div class="aligner">
 									<div class="aligner-item">
 										<h1>Husband. Father. Runner. Developer.</h1>
-										<p>A beautiful wife and new baby boy brings much joy to ones life. Running marathons has
+										<p>A beautiful wife and new baby boy brings much joy to one's life. Running marathons has
 											taught me the meaning of persistence. I love all these. I also love pizza.</p>
 										<p>For every single project that I work on my focus has been on creating the best user
-											experience possible. I've worked on a couple projects, and a few lined up projects for
-											friends and future clients. I love challenges.</p>
+											experience possible. I've worked on a couple projects, and looking forward to a few lined up projects for
+											future clients. I enjoy a challenge.</p>
 									</div>
 								</div>
 							</div>
