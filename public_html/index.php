@@ -178,9 +178,15 @@
 									<a href="//github.com/gsandoval49/flek" target="_blank" class="btn btn-default pull-right" role="button"><i class="fa fa-lg fa-github"></i></a>
 								</div>
 							</div>
-							<div class="col-xs-12 col-md-3">b</div>
-							<div class="col-xs-12 col-md-3">c</div>
-							<div class="col-xs-12 col-md-3">d</div>
+							<div class="col-xs-12 col-md-3">
+								<h1>COMING SOON</h1>
+							</div>
+							<div class="col-xs-12 col-md-3">
+								<h1>COMING SOON</h1>
+							</div>
+							<div class="col-xs-12 col-md-3">
+								<h1>COMING SOON</h1>
+							</div>
 
 					</div>
 				</section>
