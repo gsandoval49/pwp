@@ -2,6 +2,16 @@
 <html lang="en">
 	<head>
 
+		<!-- ======================================= -->
+		<!--  If you're looking at this code         -->
+		<!--  I'd enjoy discussing my projects with  -->
+		<!--  you & hopefully we can collaborate     -->
+		<!--  on something special.                  -->
+		<!--                                         -->
+		<!--  Giles Sandoval | Developer             -->
+		<!--  505.750.7722 | hello@gilessandoval.com -->
+		<!-- ======================================= -->
+
 		<meta charset="UTF-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -54,15 +64,6 @@
 		<!-- ADD YOUR CUSTOM JS FILES HERE -->
 		<script src="js/custom.js" type="text/javascript"></script>
 
-		<!-- ======================================= -->
-		<!--  If you're looking at this code         -->
-		<!--  I'd enjoy discussing my projects with  -->
-		<!--  you & hopefully we can collaborate     -->
-		<!--  on something special.                  -->
-		<!--                                         -->
-		<!--  Giles Sandoval | Developer             -->
-		<!--  505.750.7722 | hello@gilessandoval.com -->
-		<!-- ======================================= -->
 
 		<title>Giles Sandoval - Developer</title>
 	</head>
@@ -251,8 +252,11 @@
 				<section class="social-section" id="social">
 					<div class="container-fluid">
 						<div class="row">
-							<div class="col-xs-12 col-md-6">
-
+							<div class="col-xs-12 col-md-6 social-icons">
+								<i class="fa fa-linkedin-square fa-4x"></i>
+								<i class="fa fa-github-square fa-4x"></i>
+								<i class="fa fa-facebook-square fa-4x"></i>
+								<i class="fa fa-twitter-square fa-4x"></i>
 							</div>
 							<div class="col-xs-12 col-md-6">
 								<div class="social-photo">

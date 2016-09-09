@@ -106,6 +106,11 @@
 }
 
 /*SOCIAL*/
+.social-icons {
+	padding: 1em;
+}
+
+
 .social-photo {
 	background: url("../img/soundboard.png") no-repeat;
 	min-height: 600px;
