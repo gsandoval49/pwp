@@ -167,8 +167,21 @@
 				<section class="project-section" id="projects">
 					<div class="container-fluid">
 						<div class="row">
-							<div class="col-xs-12 col-md-12">latest projects here</div>
-						</div>
+							<div class="col-xs-12 col-md-3">
+								<img class="img-responsive project-img" src="img/LogoMakr.png" alt="flek logo">
+								<div class="caption">
+									<h3>Flek</h3>
+									<p>Connecting artists with patrons of local culture and art.</p>
+								</div>
+								<div class="caption-padding">
+									<a href="//bootcamp-coders.cnm.edu/~gsandoval49/flek/public_html/" target="_blank" class="btn btn-primary" role="button"><i class="fa fa-lg fa-external-link"></i></a>
+									<a href="//github.com/gsandoval49/flek" target="_blank" class="btn btn-default pull-right" role="button"><i class="fa fa-lg fa-github"></i></a>
+								</div>
+							</div>
+							<div class="col-xs-12 col-md-3">b</div>
+							<div class="col-xs-12 col-md-3">c</div>
+							<div class="col-xs-12 col-md-3">d</div>
+
 					</div>
 				</section>
 
