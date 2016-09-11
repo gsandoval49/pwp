@@ -89,6 +89,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
+							<a href="/~gsandoval49/pwp/public_html/index.php"><img src="../img/letterg.png" alt="small logo"></a>
 							<a class="navbar-brand page-scroll">| ( g ) |</a>
 						</div>
 
