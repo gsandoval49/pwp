@@ -89,8 +89,9 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a href="/~gsandoval49/pwp/public_html/index.php"><img src="../img/letterg.png" alt="small logo"></a>
-							<a class="navbar-brand page-scroll">| ( g ) |</a>
+								<!--<a href=""><img src="img/letterg.png" alt="Giles Logo" class="small-logo"/></a>-->
+								<!--TODO create svg logo and make href to page-->
+								<a class="navbar-brand page-scroll">| ( g ) |</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
