@@ -2,7 +2,7 @@
 
 .jumbotron{
 	background: url("../img/mountain.png") no-repeat center;
-	min-height: 600px;
+	min-height: 650px;
 	padding: 200px 0 100px;
 	text-align: center;
 	color: lightgrey;
@@ -14,7 +14,7 @@
 .navbar.navbar-default {
 	padding-right:50px !important;
 	padding: 10px 0;
-	background: transparent;
+	background: black;
 	border: none;
 	box-shadow: none;
 }
