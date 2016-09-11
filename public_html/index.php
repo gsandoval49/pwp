@@ -5,8 +5,8 @@
 		<!-- ======================================= -->
 		<!--  If you're looking at this code         -->
 		<!--  I'd enjoy discussing my projects with  -->
-		<!--  you & hopefully we can collaborate     -->
-		<!--  on something special.                  -->
+		<!--  you. Let's make your ideas come to     -->
+		<!--  life.                                  -->
 		<!--                                         -->
 		<!--  Giles Sandoval | Developer             -->
 		<!--  505.750.7722 | hello@gilessandoval.com -->
@@ -17,10 +17,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		<!--this is for font icons or favicons-->
-		<link data-require="font-awesome@4.5.0" data-semver="4.5.0" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css"/>
+		<link data-require="font-awesome@4.5.0" data-semver="4.5.0" rel="stylesheet"
+				href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css"/>
 
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- FontAwesome -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -44,15 +46,20 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+				  crossorigin="anonymous"></script>
 
 
 		<!--for recaptcha-->
@@ -82,7 +89,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand page-scroll">| GS Development |</a>
+							<a class="navbar-brand page-scroll">| ( g ) |</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
@@ -145,7 +152,8 @@
 										<p>A beautiful wife and new baby boy brings much joy to one's life. Running marathons has
 											taught me the meaning of persistence. I love all these. I also love pizza.</p>
 										<p>For every single project that I work on my focus has been on creating the best user
-											experience possible. I've worked on a couple projects, and looking forward to a few lined up projects for
+											experience possible. I've worked on a couple projects, and looking forward to a few
+											lined up projects for
 											future clients. I enjoy a challenge.</p>
 									</div>
 								</div>
@@ -201,8 +209,10 @@
 									<p>Connecting artists with patrons of local culture and art.</p>
 								</div>
 								<div class="caption-padding">
-									<a href="//bootcamp-coders.cnm.edu/~gsandoval49/flek/public_html/" target="_blank" class="btn btn-primary" role="button"><i class="fa fa-lg fa-external-link"></i></a>
-									<a href="//github.com/gsandoval49/flek" target="_blank" class="btn btn-default pull-right" role="button"><i class="fa fa-lg fa-github"></i></a>
+									<a href="//bootcamp-coders.cnm.edu/~gsandoval49/flek/public_html/" target="_blank"
+										class="btn btn-primary" role="button"><i class="fa fa-lg fa-external-link"></i></a>
+									<a href="//github.com/gsandoval49/flek" target="_blank" class="btn btn-default pull-right"
+										role="button"><i class="fa fa-lg fa-github"></i></a>
 								</div>
 							</div>
 							<div class="col-xs-12 col-md-3">
@@ -215,7 +225,7 @@
 								<h1>COMING SOON</h1>
 							</div>
 
-					</div>
+						</div>
 				</section>
 
 				<!-- ========================== -->
@@ -233,7 +243,10 @@
 								</div>
 							</div>
 							<div class="col-xs-12 col-md-6">
-								<!-- from goes here-->
+								<div class="connect-header">
+									<h2>Let's bring your idea to life.</h2>
+								</div>
+								<!-- form goes here-->
 								<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 									<div class="form-group connect-form">
 										<label for="name">Name</label>
