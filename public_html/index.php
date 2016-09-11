@@ -69,7 +69,37 @@
 
 		<!-- begin sticky footer -->
 		<div class="sfooter-content">
+
 			<header>
+				<nav class="navbar navbar-default navbar-fixed-top">
+					<div class="container-fluid">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand page-scroll">| GS Development |</a>
+						</div>
+
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav navbar-left">
+								<li><a class="page-scroll" href="#welcome">Home</a></li>
+								<li><a class="page-scroll" href="#about">About Me</a></li>
+								<li><a class="page-scroll" href="#experience">Experience</a></li>
+								<li><a class="page-scroll" href="#projects">Projects</a></li>
+								<li><a class="page-scroll" href="#connect">Connect</a></li>
+								<li><a class="page-scroll" href="#social">Social</a></li>
+
+
+							</ul>
+						</div>
+					</div>
+				</nav>
 
 			</header>
 
