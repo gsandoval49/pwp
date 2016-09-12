@@ -313,11 +313,17 @@
 				<section class="social-section" id="social">
 					<div class="container-fluid">
 						<div class="row">
-							<div class="col-xs-12 col-md-6 social-icons">
+							<div class="col-xs-12 col-md-3 social-icons">
 								<i class="fa fa-linkedin-square fa-4x"></i>
+								<p>linkedin</p>
 								<i class="fa fa-github-square fa-4x"></i>
+								<p>my code</p>
+							</div>
+							<div class="col-xs-12 col-md-3 social-icons">
 								<i class="fa fa-facebook-square fa-4x"></i>
+								<p>facebook</p>
 								<i class="fa fa-twitter-square fa-4x"></i>
+								<p>twitter</p>
 							</div>
 							<div class="col-xs-12 col-md-6">
 								<div class="social-photo">
