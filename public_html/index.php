@@ -139,7 +139,7 @@
 				<section class="about-me" id="about">
 					<div class="container-fluid">
 						<div class="about-parent">
-							<div class="col-xs-12 col-md-6">
+							<div class="col-xs-12 col-md-6 about-padding">
 								<div class="container-fluid about-photo">
 									<div class="about-photo-text">
 										<h1>[ ]</h1>
@@ -147,7 +147,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-xs-12 col-md-6">
+							<div class="col-xs-12 col-md-6 about-padding">
 								<div class="aligner">
 									<div class="aligner-item">
 										<h1>Husband. Father. Runner. Developer.</h1>
