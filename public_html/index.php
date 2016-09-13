@@ -169,7 +169,7 @@
 				<!-- ========================== -->
 				<section class="experience-section" id="experience">
 					<div class="container-fluid">
-						<div class="row">
+						<div class="row experience-row-padding">
 							<div class="col-xs-12 col-md-6 experience-text">
 								<i class="fa fa-connectdevelop"></i>
 								<h1>LANGUAGES</h1>

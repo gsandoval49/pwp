@@ -38,7 +38,7 @@
 }
 
 .about-photo{
-	background: url("../img/keyboard.png") no-repeat center;
+	background: url("../img/keyboard-g.png") no-repeat;
 	padding-left: 0;
 	padding-right: 0;
 	min-height: 600px;
@@ -78,16 +78,22 @@
 }
 
 /* experience padding in columns to flush the picture */
+.experience-row-padding {
+	padding-bottom: 0;
+}
+
 .experience-padding {
 	padding-left: 0;
 	padding-right: 0;
 }
 
 .experience-photo {
-	background: url("../img/ipad.png");
-	min-height: 800px;
+	background: url("../img/ipad.png") no-repeat center;
+	min-height: 850px;
 	padding: 0;
 	background-size: cover;
+	background-attachment: fixed;
+
 }
 
 .experience-text {
@@ -131,6 +137,7 @@
 	text-align: center;
 	color: lightgrey;
 	background-size: cover;
+	background-attachment: scroll;
 }
 
 .connect-photo-text {
@@ -165,6 +172,7 @@
 	text-align: center;
 	color: lightgrey;
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 .social-photo-text {
