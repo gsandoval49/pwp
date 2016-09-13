@@ -31,7 +31,7 @@
 	border: 0;
 }
 
-/*the columns padding - attempting to flush*/
+/*the x-x-6 columns padding - attempting to flush - and it worked!*/
 .about-padding {
 	padding-left: 0;
 	padding-right: 0;
@@ -61,6 +61,8 @@
 	border: 0;
 }
 
+
+/* EXPERIENCE SECTION */
 .aligner{
 	display: flex;
 	align-items: center;
@@ -72,6 +74,12 @@
 	max-width: 50%;
 	padding: 7em 0em 0em 0em;
 	text-align: center;
+}
+
+/* experience padding in columns to flush the picture */
+.experience-padding {
+	padding-left: 0;
+	padding-right: 0;
 }
 
 .experience-photo {

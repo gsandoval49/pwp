@@ -186,7 +186,7 @@
 								<p>Mobile first design. Tablet ready. Secure websites. Dynamic design. Interactive front-end
 									experience.</p>
 							</div>
-							<div class="col-xs-12 col-md-6">
+							<div class="col-xs-12 col-md-6 experience-padding">
 								<div class="experience-photo">
 									<div class="experience-photo-text">
 										<h1>/ /</h1>
