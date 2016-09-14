@@ -236,7 +236,7 @@
 				<section class="connect-message" id="connect">
 					<div class="container-fluid">
 						<div class="row">
-							<div class="col-xs-12 col-md-6">
+							<div class="col-xs-12 col-md-6 connect-padding">
 								<div class="connect-photo">
 									<div class="connect-photo-text">
 										<h1>\ \</h1>
@@ -325,7 +325,7 @@
 								<i class="fa fa-twitter-square fa-4x"></i>
 								<p>twitter</p>
 							</div>
-							<div class="col-xs-12 col-md-6">
+							<div class="col-xs-12 col-md-6 social-padding">
 								<div class="social-photo">
 									<div class="social-photo-text">
 										<h1>{ }</h1>
