@@ -314,16 +314,12 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-xs-12 col-md-3 social-icons">
-								<i class="fa fa-linkedin-square fa-4x"></i>
-								<p>linkedin</p>
-								<i class="fa fa-github-square fa-4x"></i>
-								<p>my code</p>
+								<i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
+								<i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
 							</div>
 							<div class="col-xs-12 col-md-3 social-icons">
-								<i class="fa fa-facebook-square fa-4x"></i>
-								<p>facebook</p>
-								<i class="fa fa-twitter-square fa-4x"></i>
-								<p>twitter</p>
+								<i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
+								<i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
 							</div>
 							<div class="col-xs-12 col-md-6 social-padding">
 								<div class="social-photo">

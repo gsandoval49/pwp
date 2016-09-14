@@ -150,7 +150,8 @@
 }
 
 .connect-header {
-
+	text-align: center;
+	padding-top: 1em;
 }
 
 .connect-photo-text {
@@ -165,7 +166,7 @@
 }
 
 .connect-form {
-	padding-top: 5em;
+	padding-top: 3em;
 }
 /*for message or connect icon and i decided to name it email*/
 .test {
@@ -174,6 +175,14 @@
 }
 
 /*SOCIAL*/
+
+/*@ media query tests*/
+
+/*@media(max-width: 993px) {
+#linkedin #github #facebook #twitter {
+	font-size: 150px;
+}}*/
+
 .social-icons {
 	padding: 1em;
 }
@@ -185,8 +194,8 @@
 
 .social-photo {
 	background: url("../img/soundboard.png") no-repeat;
-	padding-left: 0;
-	padding-right: 0;
+	/*padding-left: 0;
+	padding-right: 0;*/
 	min-height: 600px;
 	text-align: center;
 	color: lightgrey;
