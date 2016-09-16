@@ -320,7 +320,6 @@
 							<div class="col-xs-12 col-md-3 social-icons">
 								<a href="https://www.facebook.com/profile.php?id=100010387088009"><i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
 									<a href="https://twitter.com/GilesSandoval"><i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
-									https://twitter.com/GilesSandoval
 							</div>
 							<div class="col-xs-12 col-md-6 social-padding">
 								<div class="social-photo">
