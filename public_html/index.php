@@ -314,8 +314,8 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-xs-12 col-md-3 social-icons">
-								<i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
-								<a href="http://www.github.com/gsandoval49/"><i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
+								<a href="https://www.linkedin.com/in/giles-sandoval-a07b1215"><i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
+								<a href="https://www.github.com/gsandoval49/"><i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
 							</div>
 							<div class="col-xs-12 col-md-3 social-icons">
 								<a href="https://www.facebook.com/profile.php?id=100010387088009"><i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
