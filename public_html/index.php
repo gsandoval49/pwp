@@ -28,7 +28,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 
 		<!-- animate.css -->
-		<!-- TODO add style for library possibly - inquire if it needs -->
+		<!-- TODO add style for library - will create animate in future phase -->
 		<!--<link type="text/css" href="css/animate.css" rel="stylesheet"/>-->
 
 		<!-- ADD OTHER CSS FILES HERE -->
@@ -69,7 +69,7 @@
 		<script src="js/custom.js" type="text/javascript"></script>
 
 
-		<title>Giles Sandoval - Developer</title>
+		<title>Giles Sandoval - Web Developer</title>
 	</head>
 	<body class="sfooter">
 		<!-- HEADER SECTION -->
@@ -90,7 +90,7 @@
 								<span class="icon-bar"></span>
 							</button>
 								<!--<a href=""><img src="img/letterg.png" alt="Giles Logo" class="small-logo"/></a>-->
-								<!--TODO create svg logo and make href to page-->
+								<!--TODO create transparent logo and make href to page-->
 								<a class="navbar-brand page-scroll">| ( G ) |</a>
 						</div>
 
