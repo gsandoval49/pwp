@@ -29,7 +29,7 @@
 
 		<!-- animate.css -->
 		<!-- TODO add style for library possibly - inquire if it needs -->
-		<link type="text/css" href="css/animate.css" rel="stylesheet"/>
+		<!--<link type="text/css" href="css/animate.css" rel="stylesheet"/>-->
 
 		<!-- ADD OTHER CSS FILES HERE -->
 
@@ -91,7 +91,7 @@
 							</button>
 								<!--<a href=""><img src="img/letterg.png" alt="Giles Logo" class="small-logo"/></a>-->
 								<!--TODO create svg logo and make href to page-->
-								<a class="navbar-brand page-scroll">| ( g ) |</a>
+								<a class="navbar-brand page-scroll">| ( G ) |</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
