@@ -203,28 +203,28 @@
 				<!-- ========================== -->
 				<section class="project-section" id="projects">
 					<div class="container-fluid">
-						<div class="row">
+						<div class="row project-row">
 							<div class="col-xs-12 col-md-3">
 								<img class="img-responsive project-img" src="img/LogoMakr.png" alt="flek logo">
 								<div class="caption">
 									<h3>Flek</h3>
 									<p>Connecting artists with patrons of local culture and art.</p>
 								</div>
-								<div class="caption-padding">
+								<!--<div class="caption-padding">
 									<a href="//bootcamp-coders.cnm.edu/~gsandoval49/flek/public_html/" target="_blank"
 										class="btn btn-primary" role="button"><i class="fa fa-lg fa-external-link"></i></a>
 									<a href="//github.com/gsandoval49/flek" target="_blank" class="btn btn-default pull-right"
 										role="button"><i class="fa fa-lg fa-github"></i></a>
-								</div>
+								</div>-->
 							</div>
 							<div class="col-xs-12 col-md-3">
-								<h1>COMING SOON</h1>
+								<h1>Projects Coming Soon</h1>
 							</div>
 							<div class="col-xs-12 col-md-3">
-								<h1>COMING SOON</h1>
+								<h1>Projects Coming Soon</h1>
 							</div>
 							<div class="col-xs-12 col-md-3">
-								<h1>COMING SOON</h1>
+								<h1>Projects Coming Soon</h1>
 							</div>
 
 						</div>
@@ -315,10 +315,10 @@
 						<div class="row">
 							<div class="col-xs-12 col-md-3 social-icons">
 								<i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
-								<i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
+								<a href="http://www.github.com/gsandoval49/"><i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
 							</div>
 							<div class="col-xs-12 col-md-3 social-icons">
-								<i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
+								<a href="https://www.facebook.com/profile.php?id=100010387088009"><i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
 								<i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
 							</div>
 							<div class="col-xs-12 col-md-6 social-padding">
