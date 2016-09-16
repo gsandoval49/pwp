@@ -152,7 +152,7 @@
 									<div class="aligner-item">
 										<h1>Husband. Father. Runner. Developer.</h1>
 										<p>I am a husband/father to beautiful wife and new baby boy. They bring me much joy. Running marathons have
-											taught me the meaning of persistence. I lover of coding and a lover of pizza.</p>
+											taught me the meaning of persistence. I am a lover of coding and a lover of pizza.</p>
 										<p>For every single project that I work on my focus has been on creating the best user
 											experience possible. I've worked on a couple projects, and I'm looking forward to a few
 											lined up projects for future clients. I enjoy a challenge.</p>
