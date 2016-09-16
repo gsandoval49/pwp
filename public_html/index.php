@@ -325,7 +325,7 @@
 								<div class="social-photo">
 									<div class="social-photo-text">
 										<h1>{ }</h1>
-										<h3>Social Icons</h3>
+										<h3>Social</h3>
 									</div>
 								</div>
 							</div>
