@@ -286,8 +286,7 @@
 																	 placeholder="Your Message Here (2000 characters max)"></textarea>
 													</div>
 													<!--google recaptcha-->
-													<div class="g-recaptcha"
-														  data-sitekey="6LeU9SkTAAAAAHGB65PINPj-xXPsTyiGEoMnoas8"></div>
+													<div class="g-recaptcha" data-sitekey="6LeU9SkTAAAAAHGB65PINPj-xXPsTyiGEoMnoas8"></div>
 
 													<button class="btn btn-default" type="reset">Reset</button>
 													<button class="btn btn-info" type="submit">Submit</button>
