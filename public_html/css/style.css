@@ -2,7 +2,7 @@
 
 .jumbotron{
 	background: url("../img/mountain.png") no-repeat center;
-	min-height: 650px;
+	min-height: 100vh;
 	padding: 200px 0 0 0;
 	margin-bottom: 0;
 	text-align: center;
@@ -184,8 +184,16 @@
 	font-size: 150px;
 }}*/
 
-.social-icons {
-	padding: 1em;
+/*linked in and github column padding*/
+.social-icons-one {
+	padding-left: 8%;
+	padding-top: 8%;
+}
+
+/*facebook and twitter column padding*/
+.social-icons-two {
+	padding-left: 4%;
+	padding-top: 8%;
 }
 
 .social-padding {
