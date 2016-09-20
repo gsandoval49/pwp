@@ -186,7 +186,12 @@
 
 /*linked in and github column padding*/
 .social-icons-one {
-	padding: 10em 15em 10em 15em;
+	text-align: center;
+}
+
+#social-icons-list {
+	padding-top: 7em;
+	padding-left: 0;
 }
 
 /*facebook and twitter column padding*/

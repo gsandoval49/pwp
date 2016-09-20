@@ -299,7 +299,6 @@
 										<div id="output-area"></div>
 									</div>
 								</div>
-
 							</div>
 						</div>
 					</div>
@@ -312,10 +311,16 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-xs-12 col-md-6 social-icons-one">
-								<a href="https://www.linkedin.com/in/giles-sandoval-a07b1215"><i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
-								<a href="https://www.github.com/gsandoval49/"><i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
-								<a href="https://www.facebook.com/profile.php?id=100010387088009"><i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
-								<a href="https://twitter.com/GilesSandoval"><i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
+								<ul style="list-style: none;" id="social-icons-list">
+									<li>
+										<a href="https://www.linkedin.com/in/giles-sandoval-a07b1215"><i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
+										<a href="https://www.github.com/gsandoval49/"><i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
+									</li>
+									<li>
+										<a href="https://www.facebook.com/profile.php?id=100010387088009"><i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
+										<a href="https://twitter.com/GilesSandoval"><i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
+									</li>
+								</ul>
 							</div>
 							<div class="col-xs-12 col-md-6 social-padding">
 								<div class="social-photo">
