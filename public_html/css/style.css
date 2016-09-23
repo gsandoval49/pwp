@@ -24,6 +24,11 @@
 	color: lightgrey;
 }
 
+/*attempting to make hover work. not working so far.*/
+.navbar-nav a:hover {
+	color: mediumpurple;
+}
+
 @media(max-width: 992px){
 	.about-photo .
 }
