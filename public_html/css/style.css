@@ -16,6 +16,9 @@ body {
 	font-family: 'Cabin', sans-serif;
 }
 
+p {
+	font-size: 18px;
+}
 .jumbotron{
 	background: url("../img/mountain.png") no-repeat center;
 	min-height: 100vh;
@@ -122,7 +125,7 @@ body {
 }
 
 .experience-text {
-	padding: 5em;
+	padding: 4em;
 }
 
 .experience-photo-text {
@@ -188,7 +191,7 @@ body {
 }
 
 .connect-form {
-	padding-top: 2em;
+	padding-top: 1em;
 }
 /*for message or connect icon and i decided to name it email*/
 .test {
