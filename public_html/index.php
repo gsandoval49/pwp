@@ -36,6 +36,9 @@
 		<!-- ADD YOUR CUSTOM CSS HERE -->
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
+		<!-- GOOGLE FONTS -->
+		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
+
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
 		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -142,7 +145,7 @@
 							<div class="col-xs-12 col-md-6 about-padding">
 								<div class="container-fluid about-photo">
 									<div class="about-photo-text">
-										<h1>[ ]</h1>
+										<h2>[ ]</h2>
 										<h3>About Me</h3>
 									</div>
 								</div>
@@ -188,7 +191,7 @@
 							<div class="col-xs-12 col-md-6 experience-padding">
 								<div class="experience-photo">
 									<div class="experience-photo-text">
-										<h1>/ /</h1>
+										<h2>/ /</h2>
 										<h3>Experience</h3>
 									</div>
 								</div>
@@ -238,7 +241,7 @@
 							<div class="col-xs-12 col-md-6 connect-padding">
 								<div class="connect-photo">
 									<div class="connect-photo-text">
-										<h1>\ \</h1>
+										<h2>\ \</h2>
 										<h3>Connect</h3>
 									</div>
 								</div>
@@ -325,7 +328,7 @@
 							<div class="col-xs-12 col-md-6 social-padding">
 								<div class="social-photo">
 									<div class="social-photo-text">
-										<h1>{ }</h1>
+										<h2>{ }</h2>
 										<h3>Social</h3>
 									</div>
 								</div>
