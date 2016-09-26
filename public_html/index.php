@@ -175,8 +175,8 @@
 							<div class="col-xs-12 col-md-6 experience-text">
 								<i class="fa fa-connectdevelop"></i>
 								<h1>LANGUAGES & TOOLS</h1>
-								<p>HTML5, JavaScript, JQuery, PHP7, CSS3, MySQL, AngularJS, C#, & Python</p>
-								<p><strong>Future Languages: </strong>Java, Ruby, & C++</p>
+								<p>HTML5, JavaScript, JQuery, PHP7, CSS3, MySQL, AngularJS & C#</p>
+								<p><strong>Future Languages: </strong>Java, Python, Ruby & C++</p>
 								<i class="fa fa-desktop"></i><i class="fa fa-keyboard-o" aria-hidden="true"></i>
 								<h1>DEVELOPER</h1>
 								<p>I'm currently working on a mobile-friendly website with a team to produce a platform that
