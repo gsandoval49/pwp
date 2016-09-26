@@ -175,18 +175,18 @@
 							<div class="col-xs-12 col-md-6 experience-text">
 								<i class="fa fa-connectdevelop"></i>
 								<h1>LANGUAGES & TOOLS</h1>
-								<p>HTML5, JavaScript, JQuery, PHP7, CSS3, MySQL, AngularJS, Python</p>
-								<p><strong>Future Languages: </strong>C#, Java, Ruby, and C++</p>
+								<p>HTML5, JavaScript, JQuery, PHP7, CSS3, MySQL, AngularJS, C#, & Python</p>
+								<p><strong>Future Languages: </strong>Java, Ruby, & C++</p>
 								<i class="fa fa-desktop"></i><i class="fa fa-keyboard-o" aria-hidden="true"></i>
 								<h1>DEVELOPER</h1>
 								<p>I'm currently working on a mobile-friendly website with a team to produce a platform that
 									connects artists with the general art loving public. The team project is called Flek. I will
-									have future projects such as personal websites, a game website, and a hackathon project to
-									showcase. You can see these updates in the future.</p>
+									have future projects such as personal websites, a game web application, and a hackathon project to
+									showcase soon.</p>
 								<i class="fa fa-tablet" aria-hidden="true"></i><i class="fa fa-mobile" aria-hidden="true"></i>
 								<h1>DESIGN</h1>
-								<p>Mobile first design. Tablet ready. Secure websites. Dynamic design. Interactive front-end
-									experience.</p>
+								<p>Mobile-first Design | Tablet-ready Design | Secure Application Design | Dynamic Design | Interactive Front-end
+									Experience</p>
 							</div>
 							<div class="col-xs-12 col-md-6 experience-padding">
 								<div class="experience-photo">
