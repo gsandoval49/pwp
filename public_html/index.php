@@ -316,12 +316,12 @@
 							<div class="col-xs-12 col-md-6 social-icons-one">
 								<ul style="list-style: none;" id="social-icons-list">
 									<li>
-										<a href="https://www.linkedin.com/in/giles-sandoval-a07b1215"><i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
-										<a href="https://www.github.com/gsandoval49/"><i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
+										<a href="https://www.linkedin.com/in/giles-sandoval-a07b1215" target="_blank"><i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
+										<a href="https://www.github.com/gsandoval49/" target="_blank"><i class="fa fa-github-square fa-4x" style="font-size: 200px;" id="github"></i>
 									</li>
 									<li>
-										<a href="https://www.facebook.com/profile.php?id=100010387088009"><i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
-										<a href="https://twitter.com/GilesSandoval"><i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
+										<a href="https://www.facebook.com/profile.php?id=100010387088009" target="_blank"><i class="fa fa-facebook-square fa-4x" style="font-size: 200px;" id="facebook"></i>
+										<a href="https://twitter.com/GilesSandoval" target="_blank"><i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
 									</li>
 								</ul>
 							</div>
