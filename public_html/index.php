@@ -174,8 +174,8 @@
 						<div class="row experience-row-padding">
 							<div class="col-xs-12 col-md-6 experience-text">
 								<i class="fa fa-connectdevelop"></i>
-								<h1>LANGUAGES</h1>
-								<p>HTML5, JavaScript, PHP, CSS, MySQL, Angular, Python</p>
+								<h1>LANGUAGES & TOOLS</h1>
+								<p>HTML5, JavaScript, JQuery, PHP7, CSS3, MySQL, AngularJS, Python</p>
 								<p><strong>Future Languages: </strong>C#, Java, Ruby, and C++</p>
 								<i class="fa fa-desktop"></i><i class="fa fa-keyboard-o" aria-hidden="true"></i>
 								<h1>DEVELOPER</h1>
