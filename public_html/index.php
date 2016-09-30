@@ -128,7 +128,7 @@
 								<div class="jumbotron text-center col-md-12">
 									<h1>Giles Sandoval</h1>
 									<p>Developer. Freelancer.</p>
-									<a class="btn btn-default" href="#connect" role="button">Connect</a>
+									<!--<a class="btn btn-default" href="#connect" role="button">Connect</a>-->
 									<a class="semi-transparent-button" href="#connect">Connect</a>
 								</div>
 							</div>
