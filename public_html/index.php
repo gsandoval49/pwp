@@ -248,7 +248,7 @@
 							</div>
 							<div class="col-xs-12 col-md-6">
 								<div class="connect-header">
-									<h2>Let's bring your idea to life.</h2>
+									<h2>Let's bring your ideas to life.</h2>
 								</div>
 								<!-- form goes here-->
 								<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
