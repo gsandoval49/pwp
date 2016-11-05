@@ -154,10 +154,10 @@
 								<div class="aligner">
 									<div class="aligner-item">
 										<h1>Husband. Father. Runner. Developer.</h1>
-										<p>I am a husband and father to my beautiful wife and our new baby boy. They bring me much joy. Running marathons have
-											taught me the meaning of persistence. I am a lover of coding and a lover of pizza.</p>
+										<p>I am a husband and father to my beautiful wife and our new baby boy. They bring me much joy. Running marathons teaches
+											 me the meaning of persistence. I am a lover of coding and a lover of pizza.</p>
 										<p>For every single project that I work on my focus has been on creating the best user
-											experience possible. I've worked on a couple projects, and I'm looking forward to a few
+											experience possible. I've worked on a multiple projects, and I'm looking forward to a few
 											lined up projects for future clients. I enjoy a challenge.</p>
 									</div>
 								</div>
