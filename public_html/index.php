@@ -235,6 +235,7 @@
 				<!-- ========================== -->
 				<!--  Section five - CONNECT      -->
 				<!-- ========================== -->
+				<!-- TODO: work on the captcha form to ensure it works properly and quickly -->
 				<section class="connect-message" id="connect">
 					<div class="container-fluid">
 						<div class="row">
