@@ -5,10 +5,9 @@
 		<!-- ======================================= -->
 		<!--  If you're looking at this code         -->
 		<!--  I'd enjoy discussing my projects with  -->
-		<!--  you. Let's make your ideas come to     -->
-		<!--  life.                                  -->
+		<!--  you. Thanks for visiting!              -->
 		<!--                                         -->
-		<!--  Giles Sandoval | Developer             -->
+		<!--  Giles Sandoval | Web Developer         -->
 		<!--  505.750.7722 | hello@gilessandoval.com -->
 		<!-- ======================================= -->
 
