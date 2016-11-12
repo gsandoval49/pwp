@@ -190,7 +190,7 @@
 								<p>I'm currently working on a kids language translation application using .NET framework. An interactive balloon fiesta application to get information on pilots and balloons using the C# language. I am also working on a Jeopardy game application for future students of the CNM Deep Dive Coding Bootcamp. Stay tuned for those updated projects. </p>
 								<i class="fa fa-tablet" aria-hidden="true"></i><i class="fa fa-mobile" aria-hidden="true"></i>
 								<h1>DESIGN</h1>
-								<p>Mobile & Tablet Ready Design | Secure Application Design | Interactive Front-End Experience</p>
+								<p>Mobile Ready Design | Secure Coding Best Practices | Interactive Front-End Experience</p>
 							</div>
 						</div>
 					</div>
