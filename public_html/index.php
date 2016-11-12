@@ -172,7 +172,15 @@
 				<section class="experience-section" id="experience">
 					<div class="container-fluid">
 						<div class="row experience-row-padding">
-							<div class="col-xs-12 col-md-6 experience-text">
+							<div class="col-md-6 col-md-push-6 experience-padding">
+								<div class="experience-photo">
+									<div class="experience-photo-text">
+										<h2>/ /</h2>
+										<h3>Experience</h3>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 col-md-pull-6 experience-text">
 								<i class="fa fa-connectdevelop"></i>
 								<h1>LANGUAGES & TOOLS</h1>
 								<p>HTML5, JavaScript, JQuery, PHP7, CSS3, MySQL, AngularJS & C#</p>
@@ -187,14 +195,6 @@
 								<h1>DESIGN</h1>
 								<p>Mobile-first Design | Tablet-ready Design | Secure Application Design | Dynamic Design | Interactive Front-end
 									Experience</p>
-							</div>
-							<div class="col-xs-12 col-md-6 experience-padding">
-								<div class="experience-photo">
-									<div class="experience-photo-text">
-										<h2>/ /</h2>
-										<h3>Experience</h3>
-									</div>
-								</div>
 							</div>
 						</div>
 					</div>
