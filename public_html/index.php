@@ -187,14 +187,10 @@
 								<p><strong>Future Languages: </strong>Java, Python, Ruby & C++</p>
 								<i class="fa fa-desktop"></i><i class="fa fa-keyboard-o" aria-hidden="true"></i>
 								<h1>DEVELOPER</h1>
-								<p>I'm currently working on a mobile-friendly website with a team to produce a platform that
-									connects artists with the general art loving public. The team project is called Flek. I will
-									have future projects such as personal websites, a game web application, and a hackathon project to
-									showcase soon.</p>
+								<p>I'm currently working on a kids language translation application using .NET framework. An interactive balloon fiesta application to get information on pilots and balloons using the C# language. I am also working on a Jeopardy game application for future students of the CNM Deep Dive Coding Bootcamp. Stay tuned for those updated projects. </p>
 								<i class="fa fa-tablet" aria-hidden="true"></i><i class="fa fa-mobile" aria-hidden="true"></i>
 								<h1>DESIGN</h1>
-								<p>Mobile-first Design | Tablet-ready Design | Secure Application Design | Dynamic Design | Interactive Front-end
-									Experience</p>
+								<p>Mobile & Tablet Ready Design | Secure Application Design | Interactive Front-End Experience</p>
 							</div>
 						</div>
 					</div>
