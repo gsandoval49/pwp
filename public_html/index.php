@@ -210,7 +210,7 @@
 								<img class="img-responsive project-img" src="img/LogoMakr.png" alt="flek logo">
 								<div class="caption">
 									<h3>Flek</h3>
-									<p>Connecting artists with patrons of local culture and art.</p>
+									<p>Social platform connecting artists with patrons of local culture and art.</p>
 								</div>
 								<!--<div class="caption-padding">
 									<a href="//bootcamp-coders.cnm.edu/~gsandoval49/flek/public_html/" target="_blank"
