@@ -314,7 +314,15 @@
 				<section class="social-section" id="social">
 					<div class="container-fluid">
 						<div class="row">
-							<div class="col-xs-12 col-md-6 social-icons-one">
+							<div class="col-md-6 col-md-push-6 social-padding">
+								<div class="social-photo">
+									<div class="social-photo-text">
+										<h2>{ }</h2>
+										<h3>Social</h3>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 col-md-pull-6 social-icons-one">
 								<ul style="list-style: none;" id="social-icons-list">
 									<li>
 										<a href="https://www.linkedin.com/in/giles-sandoval-a07b1215" target="_blank"><i class="fa fa-linkedin-square fa-4x" style="font-size: 200px;" id="linkedin"></i>
@@ -325,14 +333,6 @@
 										<a href="https://twitter.com/GilesSandoval" target="_blank"><i class="fa fa-twitter-square fa-4x" style="font-size: 200px;" id="twitter"></i>
 									</li>
 								</ul>
-							</div>
-							<div class="col-xs-12 col-md-6 social-padding">
-								<div class="social-photo">
-									<div class="social-photo-text">
-										<h2>{ }</h2>
-										<h3>Social</h3>
-									</div>
-								</div>
 							</div>
 						</div>
 					</div>
