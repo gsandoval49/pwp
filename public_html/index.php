@@ -208,23 +208,25 @@
 									<h3>Flek</h3>
 									<p>Social platform connecting artists with patrons of local culture and art.</p>
 								</div>
-								<!--<div class="caption-padding">
-									<a href="//bootcamp-coders.cnm.edu/~gsandoval49/flek/public_html/" target="_blank"
-										class="btn btn-primary" role="button"><i class="fa fa-lg fa-external-link"></i></a>
-									<a href="//github.com/gsandoval49/flek" target="_blank" class="btn btn-default pull-right"
-										role="button"><i class="fa fa-lg fa-github"></i></a>
-								</div>-->
 							</div>
 							<div class="col-xs-12 col-md-3">
-								<h1>Projects Coming Soon</h1>
+								<div class="caption">
+									<img class="img-responsive stay-tuned" src="img/stay-tuned.png" alt="stay tuned picture"
+									<h1>Jeopardy Project</h1>
+								</div>
 							</div>
 							<div class="col-xs-12 col-md-3">
-								<h1>Projects Coming Soon</h1>
+								<div class="caption">
+									<img class="img-responsive stay-tuned" src="img/stay-tuned.png" alt="stay tuned picture"
+									<h1>Balloon Fiesta Web App</h1>
+								</div>
 							</div>
 							<div class="col-xs-12 col-md-3">
-								<h1>Projects Coming Soon</h1>
+								<div class="caption">
+									<img class="img-responsive stay-tuned" src="img/stay-tuned.png" alt="stay tuned picture"
+									<h1>Native Language Translation Web App</h1>
+								</div>
 							</div>
-
 						</div>
 				</section>
 
