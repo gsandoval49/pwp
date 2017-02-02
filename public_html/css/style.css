@@ -148,7 +148,8 @@ p {
 
 .experience-photo {
 	background: url("../img/ipad.png") no-repeat center;
-	min-height: 850px;
+	min-height: 100vh;
+	height: 100vh;
 	padding: 0;
 	background-size: cover;
 	background-attachment: fixed;
@@ -202,7 +203,8 @@ p {
 
 .connect-photo {
 	background: url("../img/isotopes-filter.png") no-repeat;
-	min-height: 600px;
+	min-height: 100vh;
+	height: 100vh;
 	text-align: center;
 	color: lightgrey;
 	background-size: cover;
@@ -268,7 +270,8 @@ p {
 	background: url("../img/soundboard.png") no-repeat;
 	/*padding-left: 0;
 	padding-right: 0;*/
-	min-height: 600px;
+	min-height: 100vh;
+	height: 100vh;
 	text-align: center;
 	color: lightgrey;
 	background-size: cover;
