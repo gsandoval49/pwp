@@ -12,6 +12,8 @@
 	url('webfont.svg#svgFontName') format('svg'); !* Legacy iOS *!
 }*/
 
+
+
 body {
 	font-family: 'Cabin', sans-serif;
 }
@@ -22,6 +24,7 @@ p {
 .jumbotron{
 	background: url("../img/mountain.png") no-repeat center;
 	min-height: 100vh;
+	height: 100vh;
 	padding: 200px 0 0 0;
 	margin-bottom: 0;
 	text-align: center;
