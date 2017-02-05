@@ -105,6 +105,7 @@
 								<li><a class="page-scroll" href="#projects">Projects</a></li>
 								<li><a class="page-scroll" href="#connect">Connect</a></li>
 								<li><a class="page-scroll" href="#social">Social</a></li>
+								<li><a href="#">505-750-7722</a></li>
 
 
 							</ul>
