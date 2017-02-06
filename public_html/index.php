@@ -130,6 +130,12 @@
 									<p>Web Developer | Freelancer | Web Designer</p>
 									<!--<a class="btn btn-default" href="#connect" role="button">Connect</a>-->
 									<a class="semi-transparent-button" href="#connect">Connect</a>
+									<br>
+									<br>
+									<br>
+									<br>
+									<br>
+									<i class="fa fa-angle-double-down" style="font-size:48px;color:lightgray"></i>
 								</div>
 							</div>
 						</div>
