@@ -81,6 +81,13 @@ p {
 }
 
 /*Placing sticky footer code here*/
+
+/*for footer color*/
+footer {
+	background-color: black;
+	color: grey;
+}
+
 .sfooter {
 	display: flex;
 	flex-direction: column;
