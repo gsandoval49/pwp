@@ -349,7 +349,7 @@
 		<!-- FOOTER SECTION -->
 		<footer>
 			<!--Footer here-->
-			<p>Here is some example footer content.</p>
+			<p> { [ G ] } </p>
 		</footer>
 	</body>
 </html>
