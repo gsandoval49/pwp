@@ -348,6 +348,8 @@
 		</div> <!-- sticky footer end div -->
 		<!-- FOOTER SECTION -->
 		<footer>
-
+			<!--Footer here-->
+			<p>Here is some example footer content.</p>
 		</footer>
 	</body>
+</html>
